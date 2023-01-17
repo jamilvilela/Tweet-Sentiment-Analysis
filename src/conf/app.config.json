@@ -1,0 +1,16 @@
+{
+    "Configuration": {
+      "Database": {
+        "DB_PASSWORD": "mongodb",
+        "DB_USER_NAME": "root",
+        "DB_CLUSTER_NAME": "jamil",
+        "DB_DATABASE_NAME": "TwitterDB_Stage",
+        "DB_TABLE_TWEET_DATA": "Tweet",
+        "DB_TABLE_TWEET_AUTHOR": "Author",
+        "DB_TABLE_USER_SEARCH": "Search",
+        "DB_TABLE_TWEET_PLACE": "Place"
+      },
+      "FILE_NAME_DT_FMT": "%Y%m%d_%H%M%S",
+      "DATA_FIELD_DT_FMT": "%Y-%m-%d %H:%M:%S"
+    }
+  }
